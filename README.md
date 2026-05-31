@@ -18,3 +18,6 @@ Design and verification of a 2:1 Multiplexer using Verilog HDL.
 iverilog -o mux_out rtl/mux.v tb/mux_tb.v
 vvp mux_out
 gtkwave mux.vcd
+
+##Waveform Output
+![MUX Waveform] (mux_waveform.png)
