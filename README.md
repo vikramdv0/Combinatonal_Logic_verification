@@ -20,4 +20,5 @@ vvp mux_out
 gtkwave mux.vcd
 
 ##Waveform Output
-![MUX Waveform] (mux_waveform.png)
+
+![MUX Waveform](mux_waveform.png)
